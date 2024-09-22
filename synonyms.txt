@@ -1,0 +1,3 @@
+quick,fast
+jumps,leaps
+happy,joyful
